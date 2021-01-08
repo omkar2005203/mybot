@@ -7,12 +7,12 @@ steps and requirements for Rasa installation in virtual envoirnment.
 (base) PS D:\projects\mybot> Conda create --name chatbotvenv python==3.7.6
 
 To  activate this environment, use
-#Jm
-#     conda activate chatbotvenv
-#
-# To deactivate an active environment, use
-#
-#     conda deactivate
+
+conda activate chatbotvenv
+
+To deactivate an active environment, use
+
+conda deactivate
 
 conda install ujson==2.0.3
 
