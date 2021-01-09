@@ -4,6 +4,16 @@
 * mood_great
   - utter_happy
 
+
+## develop a chatbot
+* askAboutYou
+  - utter_expert
+* developAChatbot
+  - utter_price
+
+## ask time
+* ask_time
+  - utter_ask_time
 ## sad path 1
 * greet
   - utter_greet

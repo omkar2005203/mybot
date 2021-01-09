@@ -6,6 +6,16 @@
 - good morning
 - good evening
 - hey there
+## intent:askAboutYou
+- can you develop a chatbot?
+- are you a developer ?
+- what are your skills ?
+
+
+## intent:developAChatbot
+- I want to develop my own chatbot
+- What is the price for developing my chatboy
+- Can I have a chatbot ?
 
 ## intent:goodbye
 - bye
