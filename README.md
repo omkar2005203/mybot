@@ -38,9 +38,11 @@ conda activate  <env name>
 rasa commands
 
 // initialize files
+
 rasa init
 
 // train model
+
 rasa train
 
 // start shell
